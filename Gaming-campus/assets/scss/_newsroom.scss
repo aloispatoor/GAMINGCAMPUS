@@ -1,0 +1,41 @@
+#newsroom{
+    padding: 2% 5%;
+    h2{
+        color:black;
+        font-family:montserrat_light;
+        font-size:3em;
+        text-transform: uppercase;
+    }
+    .btn-outline-dark{
+        font-family:montserrat_medium;
+        padding:10px 30px;
+        font-size: 1.5em;
+    }
+    .d-flex{
+        margin-bottom:5%;
+    }
+    .container-fluid{
+        .row{
+            .col-4{
+                padding:0 auto;
+                img{
+                    width:75%;
+                    box-shadow: 1px 1px 10px black;
+                    margin: 3% auto;
+                }
+                h4{
+                    font-family: montserrat_medium;
+                    font-weight:bold;
+                }
+                p{
+                    padding-right:10%;
+                }
+                .btn-link{
+                    font-family:montserrat_medium;
+                    text-decoration: none;
+                    color: rgb(77, 0, 128);
+                }
+            }
+        }
+    }
+}

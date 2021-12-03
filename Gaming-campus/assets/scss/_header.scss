@@ -1,0 +1,21 @@
+nav{
+    font-family: montserrat_medium;
+}
+
+#bgHeader{
+    background-image: url(../images/pexels-photo-220357.jpeg);
+    background-size: cover;
+    background-position:center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family:montserrat_medium;
+    padding: 5%;
+    p{
+        font-family:montserrat_light;
+        letter-spacing: 5px;
+        padding:2%;
+    }
+    button{
+        padding: 10px 30px;
+    }
+}

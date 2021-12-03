@@ -1,0 +1,47 @@
+#footerLinks{
+    margin:2%;
+    ul{
+        list-style-type: none;
+    }
+    h3{
+        font-family:montserrat_medium;
+        text-transform:uppercase;
+        font-size:1.2em;
+    }
+    .smallText{
+        font-size:0.6em;
+    }
+    i{
+        font-size:1em;
+    }
+}
+
+#press{
+    margin:1%;
+    padding-top:2%;
+}
+
+#partners{
+    text-align:center;
+    padding:1%;
+    h3{
+        font-family:montserrat_medium;
+        text-transform:uppercase;
+        font-size:1.2em;
+        margin-bottom:2%;
+    }
+}
+
+#bottomPart{
+    .bg-white{
+        height:5vh;
+    }
+    .bg-gray{
+        text-align:center;
+        background-color:gray;
+        height:3vh;
+        .smallText{
+            font-size:0.6em;
+        }
+    }
+}

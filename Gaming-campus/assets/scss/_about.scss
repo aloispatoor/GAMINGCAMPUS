@@ -1,0 +1,28 @@
+#about{
+    text-align:center;
+    padding: 5% 15%;
+    h3{
+        text-transform: uppercase;
+        font-family:montserrat_medium;
+        font-size:1.2em;
+    }
+    .container-fluid{
+        .row{
+            .col-4{
+                padding: 0 2%;
+                img{
+                    margin-bottom: 10%;
+                }
+                p{
+                    font-size: 14px;
+                    margin-bottom:10%;
+                }
+                button{
+                    font-family:montserrat_medium;
+                    font-size:0.8em;
+                    padding: 5px 20px;
+                }
+            }
+        }
+    }
+}
